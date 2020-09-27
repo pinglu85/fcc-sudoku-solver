@@ -1,5 +1,7 @@
 ## **freeCodeCamp** - Quality Assurance 4: Sudoku Solver
 
+[![Run on Repl.it](https://repl.it/badge/github/pinglu85/fcc-sudoku-solver)](https://repl.it/github/pinglu85/fcc-sudoku-solver)
+
 ### User stories:
 
 1.  I can enter a sudoku puzzle by filling in the text area with either a number or period (.) to represent an empty cell.
